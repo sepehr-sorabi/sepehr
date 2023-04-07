@@ -1,2 +1,2 @@
-# sepehr
-vibratory  app  mobile📱 
+# vibrate-your-phone
+Turn your phone to a vibrator :)))
